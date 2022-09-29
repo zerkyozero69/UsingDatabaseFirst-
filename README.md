@@ -1,1 +1,3 @@
 # UsingDatabaseFirst-
+
+ทดลองทำ workshop c#
